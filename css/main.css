@@ -21,6 +21,11 @@ html {
 
 }
 
+.sticky{
+box-shadow: 0  15px 50px #2F2105;
+transition: all 1s;
+}
+
 .navbar .navbar-brand {
   color: #2F2105;
   margin-left: 50px;
